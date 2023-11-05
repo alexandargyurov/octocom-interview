@@ -1,0 +1,7 @@
+.sidebar {
+  border-right: 2px black solid;
+  flex: 1 auto;
+  width: 20%;
+  max-width: 250px;
+  height: 100%;
+}
